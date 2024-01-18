@@ -6,3 +6,4 @@
 4.git commit -m “ ”
 5.git push [rep_link] [branche name]
 ivan
+islam
