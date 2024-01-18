@@ -5,3 +5,4 @@
 3.git add . //hepsini kayıt et yeşil ise fileları hazırlıyor
 4.git commit -m “ ”
 5.git push [rep_link] [branche name]
+ivan
